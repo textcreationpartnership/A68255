@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preacht at the funerall of the Lady Mary Villiers, eldest daughter of the Right Hon[ora]ble Christopher Earle of Anglesey who dyed the xxi. of Ianuary 1625. at Horningold in Leicester shire, and was buried the xxiiij. at Goadeby in the Sepulchres of her ancestors / preacht by George Iay ...</title>
+            <author>Jay, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68255</idno>
+            <idno type="STC">STC 14479</idno>
+            <idno type="STC">ESTC S1252</idno>
+            <idno type="EEBO-CITATION">22045320</idno>
+            <idno type="OCLC">ocm 22045320</idno>
+            <idno type="VID">8567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1728:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preacht at the funerall of the Lady Mary Villiers, eldest daughter of the Right Hon[ora]ble Christopher Earle of Anglesey who dyed the xxi. of Ianuary 1625. at Horningold in Leicester shire, and was buried the xxiiij. at Goadeby in the Sepulchres of her ancestors / preacht by George Iay ...</title>
+                  <author>Jay, George.</author>
+               </titleStmt>
+               <extent>[6], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Harper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴(-A1) B-D⁸.</note>
+                  <note>Reproduction of original in the Trinity College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Villiers, Mary.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8567:1"/>
+            <pb facs="tcp:8567:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHT AT the funerall of the Lady MARY VILLIERS, eldeſt Daughter of the right hon<hi rend="sup">ble</hi> 
+               <hi>Chriſtopher</hi> Earle of Angleſey;</p>
+            <p>Who dyed the xxi. of Ianuary 1625. at Horningold in Leiceſter ſhire, and was buried the xxiiij. at Goadeby in the Se<g ref="char:EOLhyphen"/>pulchres of her An<g ref="char:EOLhyphen"/>ceſtors.</p>
+            <p>
+               <hi>Preacht by</hi> GEORGE IAY, Maſter of Arts, and Student of Chriſt-Church in OXFORD.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 39.6.</hi>
+               </bibl>
+               <p>Behold thou haſt made my dayes as it were a ſpan long.</p>
+            </q>
+            <q>Imperat cum Superior rogat.</q>
+            <p>LONDON, Printed for <hi>Thomas Harper.</hi> 1626.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:8567:2"/>
+            <pb facs="tcp:8567:2"/>
+            <head>TO THE RIGHT Honourable, <hi>Chriſto<g ref="char:EOLhyphen"/>pher,</hi> Earle of <hi>Angleſey,</hi> and his moſt vertuous Lady, Grace and Peace.</head>
+            <opener>
+               <salute>My Lord, my Lady;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Onour ſhal it ever be to me, to obey your co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mands; at my Lords I preacht, at my La<g ref="char:EOLhyphen"/>dies I printed: but the diſadvan<g ref="char:EOLhyphen"/>tage of ſo ſhort an allowance of time as two daies, &amp; mine inabi<g ref="char:EOLhyphen"/>lities beſides, will ſhew this not to be a Sermon fit for, though it hath paſt, the Preſſe. This will
+<pb facs="tcp:8567:3"/>be ſpoken when tis read; but hee riſeth betimes, that thinkes worſe of it than I doe. I made a covenant with mine eyes, that they ſhould neither goe out in ſleepe nor ſlumber, untill they had lighted mee to performe my Lords pleaſure; which if I have done I have a protection<g ref="char:punc">▪</g> and no man ſhall dare to arreſt me, be<g ref="char:EOLhyphen"/>cauſe I was imploi'd in his ſer<g ref="char:EOLhyphen"/>vice. I know in theſe times of war, I ſhall meet with ſome tall men of their hands, that will put every ſyllable to the ſword: but tis an honour to me to die in my Commanders ſervice. Some mouthes are Musket-bore, and doe ſo ſcatter, that though I paſſe the Pikes, yet I cannot
+<pb facs="tcp:8567:3"/>ſcape them: yet I ſhall thinke my ſelfe out of Gunne-ſhot, when your Lordſhip hath given mee a diſpenſation for not gi<g ref="char:EOLhyphen"/>ving a due honour to the moſt promiſing, Lady (if I flatter, I flatter my ſelf) that ever mine eyes beheld. The Leviticall law gives a large reſtitution for a dammage; God, out of his mercy, when hee thinkes fit, a greater for what hee takes. I will therefore make bold with my Reader, and change my E<g ref="char:EOLhyphen"/>piſtle into a Prayer. May the God of fruitfulneſſe give your Honours a numerous, and an o<g ref="char:EOLhyphen"/>bedient iſſue, in ſupplement of her that's gone now to him, that you and yours after a length of
+<pb facs="tcp:8567:4"/>happineſſe heere may ſucceed, exceed her in glory, ſhall ever be the praier of him who is, and profeſſeth ſtill to continue,</p>
+            <closer>
+               <signed>
+                  <hi>your Honours in all humble duty and obſervance at command,</hi>
+                  <hi>GEORCE IAY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:8567:4"/>
+            <head>A FVNERALL <hi>SERMON.</hi>
+            </head>
+            <p>I could wiſh that ſome better, ſome other occaſion rather than this, had brought me hither; <hi>Et</hi>
+               <q>Si mea cum veſtris valuiſſent vota.
+<note place="margin">Ouid. Met.</note>
+               </q> And if I (I will beleeue the ſame of eve<g ref="char:EOLhyphen"/>ry one here) had been maſter of mine owne deſires, ſome other example ſhould have told me that I muſt dye, and this body of mine muſt returne to duſt. But tis mine, and I hope your daily prayer, <hi>Thy will be done, O Lord.</hi> My prayer was otherwiſe, the ſame our Saviour uſed when the ſorrowes of death encompaſ<g ref="char:EOLhyphen"/>ſed his ſoule, <hi>O my Father,
+<note place="margin">Mat. 26.39.</note> if it be poſsi<g ref="char:EOLhyphen"/>ble let this Cup paſſe from mee.</hi> And as <hi>David</hi> did, in 2. <hi>Sam.</hi> 12.16. <hi>I beſought
+<pb n="2" facs="tcp:8567:5"/>God that the Childe might live.</hi> His words ſhall be the ſubject of my diſ<g ref="char:EOLhyphen"/>courſe: may his reſolution and cheer<g ref="char:EOLhyphen"/>fulneſſe, in this or the like caſe, be ever yours, and mine example and precedent. The words you ſhall finde, in 2. <hi>Sam. chap.</hi> 12. <hi>verſ.</hi> 22, 23.</p>
+            <q>
+               <p>While the childe was yet alive, I faſted, and wept: For I ſaid, who can tell whether God will have mercie on me that the childe may liue?</p>
+               <p>But now being dead, wherefore ſhould I now faſt? Can I bring him againe any more? I may goe to him, but hee ſhall not returne to mee.</p>
+            </q>
+            <p>HEre is <hi>David</hi> and his Childe; the one lying ſicke upon his bed, the other lying weeping upon the ground. God ſmites the childe with ſickneſſe for the Fathers fault; <hi>David</hi> puniſheth himſelfe with faſting and weeping for the miſery of the childe, <hi>Who can tell whe<g ref="char:EOLhyphen"/>ther God will have mercie on mee, that the childe may live?</hi> The praiers of the Faith<g ref="char:EOLhyphen"/>full are never without fruit, though ſometimes they bring it not forth in the
+<pb n="3" facs="tcp:8567:5"/>ſame kind that we deſire. God knowes what is better for us than we our ſelves. The childe was not for <hi>Davids</hi> keeping, and therefore the Lord will have him to himſelfe; Death is ſent, and fetches him away: what ſaies <hi>David</hi> to this now? Sure he that was ſo paſſionate when the childe was but ſicke, will now grow outragious when hee heares of his death. This is indeed the temper of worldly minds; but <hi>Davids</hi> heart was caſt in another mould: He that ſhewed ſo much devotion and humility whileſt the matter was in ſuſpenſe, and before he knew what God meant to doe; now he knowes his pleaſure, can as eaſily ſub<g ref="char:EOLhyphen"/>mit his obedience to Gods will with comfort. But now that God will ſo have it, and that he is dead, <hi>Why ſhould I faſt any longer?</hi> I will not fight againſt Gods pleaſure, and vexe my ſelfe to no purpoſe: <hi>He cannot returne to me.</hi> I will rather make uſe of it for mine owne in<g ref="char:EOLhyphen"/>ſtruction, and take it up for a meditati<g ref="char:EOLhyphen"/>of mine owne mortality: <hi>I must goe to him.</hi>
+            </p>
+            <p>Thus the words may runne in Para<g ref="char:EOLhyphen"/>phraſe. And if you will have them in
+<pb n="4" facs="tcp:8567:6"/>parts, you ſhall have theſe foure. Firſt, the ſickneſſe of <hi>Davids</hi> childe; in theſe words,
+<note place="margin">Propter infantem jejun. Va<g ref="char:EOLhyphen"/>tab.</note> 
+               <hi>While the childe yet lived:</hi> that is, whilſt the childe was weak, ſicke and in<g ref="char:EOLhyphen"/>firme.</p>
+            <p>Secondly, the remedy he fled to for his recovery, faſting and weeping: <hi>Whilſt the childe yet lived, I faſted and wept.</hi>
+            </p>
+            <p>Thirdly, his reſolution after the childe was dead: <hi>But now being dead, wherefore ſhould I now faſt? can I bring him again?</hi>
+            </p>
+            <p>Fourthly, a meditation on his owne mortality, <hi>He cannot come to mee, but I ſhall goe to him.</hi>
+            </p>
+            <p>Firſt of the ſickneſſe of <hi>Davids</hi> childe. 'Tis a certaine truth which <hi>Se<g ref="char:EOLhyphen"/>neca</hi> doth urge out of the Poet,
+<note place="margin">De brevit. vitae.</note> 
+               <hi>Exigua pars eſt vitae, quam nos vivimus.</hi> It is a ve<g ref="char:EOLhyphen"/>ry ſmall part of our life, which we live free from ſickneſſe. And, as the ſame <hi>Seneca</hi> ſaies, <hi>Omne ſpatium, non vita, ſed tempus,</hi> All the ſpace of our daies is not life, but time: ſo with a little alteration may I ſay, with as much truth, <hi>Omne ſpatium non vita, ſed tristitia,</hi> All our time is not life, but ſorrow. What <hi>Tullie</hi> ſaid of old age, may be as well ſpoken
+<pb n="5" facs="tcp:8567:6"/>of the whole life of man:
+<note place="margin">Senectus eſt ipſa morbus. Cic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de ſenect.</note> 
+               <hi>Vitaipſa morbus est,</hi> Life it ſelfe, without the addition of any other paine, is a di<g ref="char:EOLhyphen"/>ſeaſe. That which the Prophet <hi>Eſay</hi> ſaies of our Saviour, the Head, that he was <hi>Vir dolorum,</hi> a man of ſorrow; we may derive in a qualified ſenſe upon all his Members, they are <hi>Viri triſtitiae,</hi> men of ſorrowes, compaſta<g ref="char:EOLhyphen"/>bout with infirmities.
+<note place="margin">Eſai. 1.6</note> The whole head is ſicke, the whole heart is faint, from the ſole of the foot even to the crowne of the head, there is no ſound<g ref="char:EOLhyphen"/>neſſe, but wounds, and bruiſes, and putrified ſores. Our wounds have not been cured with the infuſion of oyle, like the mans that lay betwixt Ieri<g ref="char:EOLhyphen"/>cho &amp; Ieruſalem; they have not been cloſed nor bound up, nor mollified with ointment,
+<note place="margin">Ibid.</note> as the ſame Prophet ſpeaks in a ſpirituall ſenſe, and we find it true in a literall. I know that in my ſelfe, ſaith Saint <hi>Paul,</hi> there dwelleth no goodneſſe; we may alter the words, and ſay, we know that in our fleſh dwells no ſoundneſſe nor health: it may ſojourne or lodge there for a time, but for any ſettled
+<pb n="6" facs="tcp:8567:7"/>habitation or conſtant abiding, it hath none: be we at what coſt we will for the entertaining of it, let us bribe our Phyſitians to the wa<g ref="char:EOLhyphen"/>ſting of our eſtates, they cannot pre<g ref="char:EOLhyphen"/>ſerue our bodies from ach and rotten<g ref="char:EOLhyphen"/>neſſe. Sickneſſes, and death, were the curſes that God laid upon our firſt Parents diſobedience.
+<note place="margin">Gen. 3.16.</note> To the Wo<g ref="char:EOLhyphen"/>man firſt, I will encreaſe thy ſor<g ref="char:EOLhyphen"/>rowes &amp; thy conceptions: in ſorrow ſhalt thou bring forth children. And then to <hi>Adam,</hi> In ſorrow ſhalt thou eate all dayes of thy life; in the ſweate of thy face ſhaltthou eate thy bread, till thou returne to the earth. Sinne ſet the foure elements in our bodies, and the harmony of our tem<g ref="char:EOLhyphen"/>per at oddes; their continuall com<g ref="char:EOLhyphen"/>bate creates daily diſeaſes, ſo as we are ſtill ſicke. And beſides the malig<g ref="char:EOLhyphen"/>nity that ſinne infuſed into the body it ſelfe, there are vitiating and infe<g ref="char:EOLhyphen"/>ſting qualities, diffuſed by the ſame ſinne over all the creatures that ſhould nouriſh it: there is a root of intemperance in our appetite, that ſucks unwholeſomeneſſe out of theſe
+<pb n="7" facs="tcp:8567:7"/>nouriſhments; that are in themſelves good and conſervative. Such a body provoked by ſuch an appetite, to feede on ſuch nouriſhment, muſt needs make the Phyſitian neceſſary, and bring forth a large harveſt of diſeaſes. Nature is corrupted, and therefore tends to cor<g ref="char:EOLhyphen"/>ruption; the end of corruption is death, the way to death is ſickneſſe. So long then as we have ſuch a nature a<g ref="char:EOLhyphen"/>bout us, we cannot thinke it ſtrange, if ſickneſſe doe often ſeize on us. A cor<g ref="char:EOLhyphen"/>rupt fountaine cannot ſend forth ſweet water, nor a corrupt nature maintaine a healthy conſtitution. The ſeeds of ſickneſs are ſowne in our nature by our Parents, when they beget vs, &amp; they lie lurking in our veines &amp; bones, waiting every occaſion to invade our health, and to cut off the thread of our life; though ſometimes we perceiue them not, yet in our fleſh they are, and will neuer remoove their ſeige untill they have given us an overthrow. <hi>Colubros in ſinu fovemus,</hi> We carry ſcorpions in our boſomes. And as it was ſaid of Iſrael, <hi>perditio tua ex te,</hi> thy deſtructi<g ref="char:EOLhyphen"/>on is from thy ſelfe; ſo are we authors
+<pb n="8" facs="tcp:8567:8"/>of ours. The body of man is nothing but a <hi>congeries,</hi> a heap of infirmities, as <hi>Martial</hi> ſaid of <hi>Zoilus,</hi>
+               <q>Non vitioſus homo es, Zoile, ſed vitium.</q> Thou art not vicious, but vice it ſelfe. So I ſay to the body of man, thou art not diſeaſed, but a diſeaſe it ſelfe: good<g ref="char:EOLhyphen"/>neſſe, mercy, iuſtice, doe not onely be<g ref="char:EOLhyphen"/>long to the nature of God, but are the very Being and Eſſence of him: he is not only good, but goodneſſe; not per<g ref="char:EOLhyphen"/>fect, but perfection: ſo on the contra<g ref="char:EOLhyphen"/>ry, it is not much improper to ſay, that we are not only miſerable, but miſery; not ſicke, but ſickneſſe it ſelfe. <hi>Homo eſt animal aevi breviſſimi,
+<note place="margin">Petrarch. Iob. 14.2.</note> ſollicitudinis infinitae.</hi> Man that is borne of a woman, is of ſhort continuance, and full of trouble: when we are in our beſt health, we are <hi>Valetudinarij,</hi> weak and ſickly; and (as the Phyſitians ſay) have only <hi>lucida inter valla,</hi> perhaps one good day betwixt two aguiſh, a calme betwixt two ſtormes. <hi>Quid eſt homo?</hi> 'tis <hi>Seneca's</hi> interrogation, (and he an<g ref="char:EOLhyphen"/>ſwers himſelfe) a weak &amp; fraile thing, liable and expos'd to all danger, impa<g ref="char:EOLhyphen"/>tient of heate, cold, and labour; they
+<pb n="9" facs="tcp:8567:8"/>are all diſeaſes vnto him.
+<note place="margin">Seneca.</note> 
+               <hi>Imò otio itu<g ref="char:EOLhyphen"/>rus in tabem, &amp; alimenta metuit ſua quibus rumpitur.</hi> Eaſe conſumes him, and the bread which he eates to give him length of dayes, doth ſhorten them.</p>
+            <p>Our breath is corrupted,
+<note place="margin">Iob 17.1. Iob 14.22.</note> our dayes are cutting off, and the grave is ready for vs: while our fleſh is upon us we ſhall be ſorrowfull, &amp; while our ſoules are in vs we ſhall mourne.
+<note place="margin">Seneca.</note> 
+               <hi>Si velis credere altius veritatem intuentibus, om<g ref="char:EOLhyphen"/>nis vita ſupplicium,</hi> If you will be<g ref="char:EOLhyphen"/>leeve the Maſters of truth, all our life is puniſhment. He that by an expe<g ref="char:EOLhyphen"/>rimentall tryall, a ſerious obſervation, and a true contemplation, hath runne through all ſublunary and inferiour things, though of the moſt tranſcen<g ref="char:EOLhyphen"/>dent perfection, ſpeaks leſſe than a truth, if he ſaies he found not ſick<g ref="char:EOLhyphen"/>neſſe, or (to uſe <hi>Salomons</hi> word) vexa<g ref="char:EOLhyphen"/>tion in them all. When we come in<g ref="char:EOLhyphen"/>to the world, we are throwne into a tempeſtuous Sea of trouble, and there are beaten with inceſſant ſtormes. Now the floud of diſcontent beates high, &amp; whirls our troubled heads into amaze<g ref="char:EOLhyphen"/>ment,
+<pb n="10" facs="tcp:8567:9"/>and now the ebbe of deſpaire ſinkes our barque euen to the loweſt hell: now are we in danger of this rock, now of that; now this gulfe, this ſhelfe, this guſt, theſe quickſands doe make vs feare, if not ſuffer ſhipwrack: ſo let us ſaile where we will, when we can, we ſhall finde no haven of reſt but the graue.
+<note place="margin">Epict.</note> 
+               <hi>Homo eſt calamitatis fa<g ref="char:EOLhyphen"/>bula, infaelicitatis tabula,</hi> Mans life is a ſtory of calamity, a mappe of miſe<g ref="char:EOLhyphen"/>ry:
+<note place="margin">Iob. 10.17. Iob 10.1.</note> changes, and armies of ſorrowes are againſt us, and our ſoules are cut off though we live. All our life is but a continued diſeaſe: when we begin to live, we enter upon a leaſe of ſorrowes, entaild on us and our heyres. <hi>Ingreſſus flebilis, progreſſus debilis, egreſſus horri<g ref="char:EOLhyphen"/>bilis.</hi> Our birth is mournfull, our growth is ſorrowfull, our death is fearfull.
+<note place="margin">Eccluſ. 40.1.</note> Great travaile is created for all men, and an heavie yoak upon the ſonnes of <hi>Adam,</hi> from the day that they goe out of their mothers womb, till the day that they returne vnto the mother of all things. Such is the weight of griefe that doth depreſſe our hearts, that we may truly ſay with <hi>Iob,</hi>
+               <pb n="11" facs="tcp:8567:9"/>If our griefe were well weighed,
+<note place="margin">Iob 6.2.3.</note> and were well laid together in the ballance, it would now be heavier than the ſand of the Sea: ſickneſſe and troubles come upon us like <hi>Iobs</hi> unfortunate meſſen<g ref="char:EOLhyphen"/>gers, one upon the neck of another.
+<q>Finis unius mali, gradus eſt futuri.</q> Where one miſery ends another be<g ref="char:EOLhyphen"/>gins, as one wave followes another: there is the ſame undivided continua<g ref="char:EOLhyphen"/>tion in ſorrowes that is in waters, no intermixtion nor interpoſition of any thing elſe. We have Beares, and Lyons, and Philiſtims, &amp; <hi>Sauls,</hi> as <hi>David</hi> had, that ſucceſſively aſſaile us; and we have no ſooner ended the combate with this ſickneſſe, but another with freſh ſup<g ref="char:EOLhyphen"/>plies attempts our overthrow.
+<note place="margin">Vita quid eſt hominis niſi vallis plen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> malorum.</note> We dwell in Megiddon, the vally of teares: ſighes and lamentations are our com<g ref="char:EOLhyphen"/>panions: and, which is moſt miſerable, our times appointed for reſt, our ſleeps are full of diſturbances.
+<note place="margin">Iob 7.13.14.</note> When we ſay our couch ſhall relieve us, and our bed ſhall bring comfort, in our meditati<g ref="char:EOLhyphen"/>ons we are frighted with dreams, and aſtoniſht with viſions. A little or no<g ref="char:EOLhyphen"/>thing
+<pb n="12" facs="tcp:8567:10"/>ſaies the ſon of <hi>Sir ach</hi> is mans reſt, &amp; afterward,
+<note place="margin">Eccluſ. 40.6.</note> in ſleeping he is as a watch<g ref="char:EOLhyphen"/>tower in the day, he's troubled with vi<g ref="char:EOLhyphen"/>ſions of his heart, as one that runneth out of a battaile. And leſt you ſhould think, that he doth only here deſcribe the unquietneſſe of the Reprobate, he tells you immediatly, that ſuch things ſhall come unto all fleſh,
+<note place="margin">Verſ. 8.</note> but ſeven-fold to the ungodly; which we have no way to prevent or extenuate, but by faſting and weeping. And ſo I come to the remedy which <hi>David</hi> uſed for his childs recovery, abſtinence and teares;
+<q>While the childe yet lived, I fasted and wept.</q>
+            </p>
+            <p>The people Iſrael,
+<note place="margin">Pars ſecunda.</note> when they made interceſſion for the obtaining of any great bleſſing, or the avoiding of any great danger, did alwayes uſe this re<g ref="char:EOLhyphen"/>medy of faſting and mourning And the Prophets did ever enjoine the Church, amongſt others, eſpecially to performe theſe two duties, when God threatned his iudgements againſt her:
+<pb n="13" facs="tcp:8567:10"/>Turn to the Lord with all your hearts,
+<note place="margin">Ioel 2.12.</note> and with faſting, and with weeping, and with mourning, ſaies the Prophet. Let the people and the Miniſters of the Lord, weep betwixt the Porch and the Altar; and let them ſay,
+<note place="margin">Verſ. 17.</note> Spare thy peo<g ref="char:EOLhyphen"/>ple, O Lord, and give not thine inheri<g ref="char:EOLhyphen"/>tance to reproach. Sanctifie a faſt, call a ſolemne aſſembly,
+<note place="margin">Ioel. 1.14.</note> gather the El<g ref="char:EOLhyphen"/>ders, and all the inhabitants of the land into the houſe of the Lord, and let them cry vnto the Lord. I dare alter our Saviours words, though not his truth, Man lives by bread; yet with <hi>Sa<g ref="char:EOLhyphen"/>lomon,</hi> I will pray againſt plenty: Feed me O Lord with food convenient for me, leſt I be full, and deny thee. The empty ſoule ſends to Heaven the moſt powerfull ejaculations, the full is dull and ſluggiſh, and cannot get vp with the ſame nimbleneſſe. yet I will not faſt too long: for too much abſtinence ef<g ref="char:EOLhyphen"/>feebles the body, &amp; by conſequence e<g ref="char:EOLhyphen"/>nervates the appetite to devotion: fa<g ref="char:EOLhyphen"/>mine can kil as wel as a ſurfeit. Were I to receive the Sacrament, and found that abſtinence would diſprepare my
+<pb n="14" facs="tcp:8567:11"/>meditations, and unfit mee for that purpoſe, I would eate, the better to enable me for Gods ſervice, but not too much: for that were to fall into the other extreame, exceſſe, more dangerous, more pernicious: I will ſo eate, that I may be able to ſerve my God; and ſo faſt, that I may doe it willingly. It was a meere Epicurean ſaying, Let us eate and drinke: ſuch a temptation may verifie the conſe<g ref="char:EOLhyphen"/>quence in us, to morrow we may die. neyther did it ſavour of diſcretion: for the laſt meate to him that knowes he muſt immediately dye, can never be well reliſht.
+<q>
+                  <l>Non ſiculae dapes
+<note place="margin">Horace.</note>
+                  </l>
+                  <l>Dulcem elaborabunt ſaporem.</l>
+               </q> The moſt delitious fare, though helpt with the beſt art of cookery, will bee diſtaſtefull: had not Gods bleſſing given a relliſh to <hi>Iacobs</hi> pre<g ref="char:EOLhyphen"/>parations, <hi>Iſaac</hi> had not taken ſuch delight in eating his Veniſon. Ab<g ref="char:EOLhyphen"/>ſtinence ſets dying men more for<g ref="char:EOLhyphen"/>ward in their way to heaven; eating and drinking ſtops them in their
+<pb n="15" facs="tcp:8567:11"/>journey, and makes them fitter for reſt, than a progreſſe. If mine own knowledge did not, yet the Chur<g ref="char:EOLhyphen"/>ches in junction ſhould commend fa<g ref="char:EOLhyphen"/>ſting unto mee, as a manifeſt effect of it, doth at this inſtant. I pre<g ref="char:EOLhyphen"/>ſume it gave wings to our prayers, in the late contagious &amp; peſtilent times, and prepared a place for their well-come in the court of heaven. Fa<g ref="char:EOLhyphen"/>ſting is a good preparation to devo<g ref="char:EOLhyphen"/>tion, and ever ſtrongly inſinuates, &amp; furthers a grant; I place no merit in it, but 'tis an excellent preparative to devotion. And I ſhal ever beleeve<g ref="char:punc">▪</g> thoſe good men, that faſt moſt. The beſt of men that ever were, upon ex<g ref="char:EOLhyphen"/>mination of the Scriptures, you will finde to be the greateſt faſters; <hi>Moſes</hi> that talked with God, <hi>Elias</hi> that in a fyerie chariot went to God, Chriſt himſelfe that was God. I dare ſay, that the perverſe humour of dainty fee<g ref="char:EOLhyphen"/>ding, is as odious to God, as contrary to the lawes of the Church: neyther do I ſee how men can more ſtrongly make their belly their god, than by
+<pb n="16" facs="tcp:8567:12"/>yeelding more obedience to their carnall appetite, than their ſpirituall Commander. <hi>Preſumptionis genus eſt tum manducare,
+<note place="margin">Cal. in Num.</note> cùm debemus jejunare, tum gaudere, cùm oportet flere.</hi> I equal<g ref="char:EOLhyphen"/>ly deteſt the ambition of the Papiſt, and the perverſeneſſe of the Puritan, and therefore deſire to barre the one from all thought of merit, and the other from the opinion of licenti<g ref="char:EOLhyphen"/>ouſneſſe. <hi>Vitanda ſuperſtitio, ſervan<g ref="char:EOLhyphen"/>da abstinentia.</hi>
+               <note place="margin">Hierom.</note> Let us faſt, and 'tis com<g ref="char:EOLhyphen"/>mendable, if not ſuperſtitiouſly. <hi>Holo<g ref="char:EOLhyphen"/>phernes</hi> intending the overthrow of his beſieged enemies, diverts the courſe of their ſprings, and cuts off the convoy of their proviſion. if we will conquer our croſſe paſſions and affections that fight againſt us, wee muſt weaken their ſtrength by faſting and abſtinence. The inſtitution of faſting, is almoſt of the ſame anti<g ref="char:EOLhyphen"/>quity that the world is: for, <hi>nequaquam comederis,</hi>
+               <note place="margin">Chryſ. ſerm. de jejunio.</note> Gods prohibition to <hi>Adam,</hi> that he ſhould not eate of the tree of knowledge, was a kind of command of abſtinence: the breaking of it
+<pb n="17" facs="tcp:8567:12"/>brought all miſery into the world, the remedie is the practiſe of that which he in Paradiſe violated. Phyſick doth cure by contraries, there is no better receipt for a ſurfeit, than faſting. Our firſt Parents gluttony hath diſeas'd our ſoules, and bodies, and wee can<g ref="char:EOLhyphen"/>not finde a better meanes of recovery than abſtinence: their ryot drove us out of Paradiſe, our abſtinence will poſſeſſe us of a better place. <hi>Quem luxuriando provocavimus, abstinendo placemus.</hi> Let us humble thoſe bo<g ref="char:EOLhyphen"/>dies with faſting, which exceſſe and intemperance hath made rebels to their Creator. When a man hath committed a ſinne, he hath incurred the wrath of God, and rendred him<g ref="char:EOLhyphen"/>ſelfe liable to eternall damnation, there is no way to take away this wrath and puniſhment, but by repen<g ref="char:EOLhyphen"/>tance; and what is repentance, but a diſavowing of the ſinne wee have committed, and being ſorry that wee have committed it, and a wiſhing it uncommitted? <hi>Quem paenitet peccaſſe,
+<note place="margin">Seneca.</note> penè eſt innocens,</hi> Hearty penitence
+<pb n="18" facs="tcp:8567:13"/>doth extenuate, if not annihilate the greateſt fault. And though ſorrow, and teares, and affliction of the ſoule, which ſhould be us'd in faſting, are not things in themſelves pleaſing unto God, yet becauſe they are arguments that we hate our ſin, &amp; ſincerely wiſh it undone, and take a kinde of holy revenge upon our ſelves for commit<g ref="char:EOLhyphen"/>ting it, they are acceptable in his ſight, and if attended with ſervent prayers, motives to accelerate and procure an abſolution for it. The end of faſting, is either to obtaine ſome good that we want, or to eſcape ſome evill which we either feele, or feare. Good is either ordinary, or ex<g ref="char:EOLhyphen"/>traordinary: ordinary good is obtai<g ref="char:EOLhyphen"/>ned by ordinary devotions; theſe can not bee joined with faſting, be<g ref="char:EOLhyphen"/>cauſe they are to be daily. For extra<g ref="char:EOLhyphen"/>ordinary bleſſings we muſt uſe extra<g ref="char:EOLhyphen"/>ordinary devotions, and, like <hi>Iacob,</hi> wreſtle with God. Now evill is ey<g ref="char:EOLhyphen"/>ther of ſinne, or puniſhment: we faſt to eſcape the evill of ſinne, either by way of prevention (as Saint <hi>Paul,</hi>
+               <pb n="19" facs="tcp:8567:13"/>when he ſaid, I chaſtice my body) to keepe us from falling into it; or by way of remorſe, and penitence, to move the Lord to help us out of it. For the eſcaping the evill of puniſh<g ref="char:EOLhyphen"/>ment, if already inflicted, wee faſt to move God to ſtay the proceſſion of his vengeance: and this was <hi>Davids</hi> caſe heere; hee faſted that the Lord might ſpare the life of his ſick childe. neither was it hypocritically, for my Text ſaies that hee wept alſo; and teares are powerfull invitations to draw God to mercy. They are the ſoules beſt oratours, and enter the gates of heaven, when our prayers are excluded. <hi>Iejunando Deum ora<g ref="char:EOLhyphen"/>mus, flendo exoramus,</hi> By faſting wee move our requeſt, by teares wee ob<g ref="char:EOLhyphen"/>taine it, or if you will have it in the words of a Father,
+<note place="margin">Bernard.</note> 
+               <hi>Orando Deum le<g ref="char:EOLhyphen"/>nimus, lachrymis cogimus,</hi> prayers are petitioners, teares are raviſhers, and force a pardon from God. There is no voice lowder in Gods eares, than the ſighes and grones of a weeping Penitent. Let our teares precede,
+<pb n="20" facs="tcp:8567:14"/>and Gods mercy will follow. <hi>Quò quiſque eſt ſanctior,
+<note place="margin">Aug.</note> eò in fletu uberior.</hi> Plenty of teares doe witneſſe a full devotion, and the more holy we are, the more we ſhould expreſſe it in our lamentations. Prayers often times re<g ref="char:EOLhyphen"/>ceive a deniall, but teares are bold petitioners, and will take none: <hi>E<g ref="char:EOLhyphen"/>zekiah</hi> and <hi>Mary Magdelen</hi> had freer acceſſe to their God by their teares, than praiers: when <hi>Peters</hi> tongue had pronounced him a traytor, his teares reconciled him to his Saviour. They that ſowe in teares ſhall reape in joy: a ſleight ſcattering and ſprinkling of teares, will in the time of gathering yeeld us a fruitfull harveſt of conſola<g ref="char:EOLhyphen"/>tions. Away with the bloud of Rams &amp; of Goates; if ye wil bring an accep<g ref="char:EOLhyphen"/>table ſacrifice, offer up the teares and ſighes of a contrite heart. No Epi<g ref="char:EOLhyphen"/>cure findes that pleaſure in feaſting, which repentant <hi>David</hi> injoi'd in his banquet of teares: and therefore he was deſirous to make teares his meat, and his drinke; for they are the beſt nouriſhment of the ſoule vnto eter<g ref="char:EOLhyphen"/>nall
+<pb n="21" facs="tcp:8567:14"/>life.
+<note place="margin">Fulg. Ep.</note> 
+               <hi>Quae ex compunctione cordis lachrymae manant, nob is donum laetitiae tri<g ref="char:EOLhyphen"/>umphantis acquirunt.</hi> Our Saviour Chriſt in the ſixth of <hi>Luke,</hi> ſets forth their happineſſe that weepe, <hi>Beati qui fletis, quia ridebitis,</hi> Bleſſed are you that weep: for you ſhall laugh. When the tongue is ignorant what to ſay, teares doe argue and plead our cauſe ſtrongly,
+<note place="margin">Hi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>Loquuntur lachrymae ſilente linguâ.</hi> They quench the flames of hell, and make dull and ruſty the edge of Gods avenging ſword; they are the <hi>aqua fortis,</hi> which eates out the hand writing, which ſin hath made againſt our ſoules, and give an eaſe unto us, when wee are weighed downe with the burthen of tranſgreſ<g ref="char:EOLhyphen"/>ſions.
+<q>Expletur lachrymis, egeritur<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dolor.</q> Theſe, like powerfull Embaſſadors,
+<note place="margin">Ovid.</note> never returne with an ungranted ſuite.
+<note place="margin">Pſal. 6.</note> Therefore the Pſalmiſt every night water'd his couch with teares. And <hi>Ieremie</hi> wiſht his head a foun<g ref="char:EOLhyphen"/>taine,
+<note place="margin">Ier. 9.8.</note> and his eyes as overflowing channels. They that now ſit wee<g ref="char:EOLhyphen"/>ping
+<pb n="22" facs="tcp:8567:15"/>by the rivers of Babylon, ſhall one day have their eyes dryed by the Lambe that ſits upon the Throne. But if our teares be only ſuper ficiall,
+<q>Et habent artes,
+<note place="margin">Ovid.</note> qua<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> jubentur eunt.</q> and proceed not from a hart that tru<g ref="char:EOLhyphen"/>mournes, they are ſo farre from ad<g ref="char:EOLhyphen"/>vantaging our ſoules, that they adde to our condemnation: wee muſt not only weepe, but mourne; cloath our hearts with ſadneſſe and affliction: They are the wedding garments which ſhall welcome us on the feaſt day, when the preſumptuous gueſt ſhall bee bound hand and foot, and caſt into utter darkneſſe. 'Tis not the moyſture that diſtills from the eyes, but the drops that fall from the heart, that make the grace of God fruitfull in us. I would my head were a ſpring of teares, that I might pow<g ref="char:EOLhyphen"/>erfully teach by example, what I la<g ref="char:EOLhyphen"/>bour to perſwade by my words. O may the Father of goodneſſe and mercy, give us all teares for our ſins, and grant that wee may faſt, and ſin<g ref="char:EOLhyphen"/>cerely weepe for the prevention of
+<pb n="23" facs="tcp:8567:15"/>his judgements: but if it ſhall be thy pleaſure (Lord) for our ſinnes, to let them fall upon us, yet give us cou<g ref="char:EOLhyphen"/>rage and patience, meekely to ſuffer what thou ſhalt inflict. And ſo I come to <hi>Davids</hi> reſolution after his childes death:
+<q>But now being dead, wherefore ſhould I now faſt?</q>
+            </p>
+            <p>Preventing griefe is warrantable,
+<note place="margin">Pars tertia.</note> nay neceſſary, but after a deed paſt helpe, effeminate, or (which is worſe) rebellious. Let teares pre<g ref="char:EOLhyphen"/>cede, if puniſhment be fear'd; thank<g ref="char:EOLhyphen"/>fulneſſe follow, when 'tis paſt. 'Tis good for mee (ſaies <hi>David</hi>) that I have ſuffer'd affliction:
+<note place="margin">Pſal. 90.</note> We are not to repine, when God ſhall pleaſe to lay his croſſes on us, but to welcome them as badges and tokens of his fa<g ref="char:EOLhyphen"/>vour; and when they moſt torment us, to ſay with <hi>Iob,</hi> Though thou kill mee, yet will I put my truſt in thee.
+<note place="margin">Iob 13.15.</note> The ſacrifice of teares which wee ſhall offer to this innocent Herſe, is
+<pb n="24" facs="tcp:8567:16"/>to bee leſſened, if it exceede the mea<g ref="char:EOLhyphen"/>ſure of affection and nature; the o<g ref="char:EOLhyphen"/>verplus is redundancie and ſuperflu<g ref="char:EOLhyphen"/>ous, and muſt bee cut off, or wee are not wiſe: exceſſe of griefe for evils remedileſſe, hath more affinity with ſtubborneſſe, than uſe or profit; it may ſhorten ours, not recover her life, that is heere the ſad ſpectacle of mortality. <hi>Facilius nos dolor illiadjiciet, quàm illam nobis.</hi> Vnquietneſſe and diſturbance do ingeminate, and dou<g ref="char:EOLhyphen"/>ble the weight of griefe, not leſſen it. Shall wee puniſh our ſelves, becauſe God hath puniſht us, I may rather ſay bleſt us? for this bleſſed childe is not loſt but preferr'd, her ſoule hath exchang'd a houſe of clay for a king<g ref="char:EOLhyphen"/>dome of glory, and having broken priſon, hath left an unquiet habitati<g ref="char:EOLhyphen"/>on, to enjoy a perpetuity of reſt; ſhee is gone thither, where the Sun ſhall not burne her by day, nor the Moon by night, nor lying ſlanderer ſhall blemiſh her unſpotted cleanneſſe, nor baſe calumny make the truth of her worth queſtionable. She needs
+<pb n="25" facs="tcp:8567:16"/>not feare ſuch enemies, who with damnable plots &amp; falſities invade the fortunes, (if they can) the lives of in<g ref="char:EOLhyphen"/>nocents; her happineſſe hath removed her from their reach. No cunning Courtier can make crimes, and beg her forfeited patrimony, forraine prepara<g ref="char:EOLhyphen"/>tions, and the danger of invaſion comes not neere her thoughts; nor earthly villany, nor vexation, can diſ<g ref="char:EOLhyphen"/>quiet her happineſſe, ſhee prayes for ours<g ref="char:punc">▪</g> ſhe is now there bleſſedly arrived, whence nothing can force her, nothing can feare her. Why then doe the ho<g ref="char:EOLhyphen"/>nourable parents of this happy ſoule mourne ſo exceſſively? Can they think to call her back againe? If they could, I preſume they would not, from this ſtate of bliſſe. If ſhe were dead, and impriſon'd in the cold earth, it might ſomething trouble them; but now they know ſhe lives, &amp; triumphs in heaven, ſhall they not rejoyce?
+<note place="margin">Immaturè mo<g ref="char:EOLhyphen"/>ritur ſenex, ma<g ref="char:EOLhyphen"/>turè puer. Fulg<g ref="char:punc">▪</g> Epiſt.</note> If we love our children, we deſire their happineſſe; and can they have greater than to be in heaven? and ſhall wee grieve becauſe they have it ſooner? <hi>Bis dat, qui citò
+<pb n="26" facs="tcp:8567:17"/>dat,</hi> a quick and haſty giver augments the valew of his benefit, whereas tar<g ref="char:EOLhyphen"/>dy bleſſings are leſſened by their ſtay. Is it not written,
+<note place="margin">Iob. 1.21.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that the Lord giveth and the Lord taketh? and ſhall I grieve becauſe he calleth for his owne? for, to ſpeak properly, ſhee was lent to us, not beſtowed upon us. Vnwil<g ref="char:EOLhyphen"/>lingneſſe to pay a debt, lent without in<g ref="char:EOLhyphen"/>tereſt, argues an unthankefull diſpoſi<g ref="char:EOLhyphen"/>tion. God might have ſent his meſ<g ref="char:EOLhyphen"/>ſenger Death to receive tribute from us, let us be thankfull that hee did not, and not grieve that hee demanded it there, where it might bee more eaſily paid. The thought of this may ſome<g ref="char:EOLhyphen"/>thing moderate our impatience, what we had in her was delicate, and ſweet; what we loſt, fraile and mortall: judge how unreaſonable it is extreamly to be mou'd that we enjoi'd her not long, and not to rejoyce that once wee had her: we ſhould rather be thankefull for the donation of her, than be ſorrowfull for her loſſe; for the one argues our love to God, the other to our ſelves. Let us weigh onewith the other, and
+<pb n="27" facs="tcp:8567:17"/>we disfavour our ſelves, if the ſtate of our joyes doth not equally poiſe that of our griefe. God, that meant not to lend us her longer, gave her ſuddainly that perfection, which others before a long time doe not owne; ſhe had that ſweetneſſe in the bud, in the Aprill of her age, which bloſſom'd, and well-growne flowers doe ſeldome affoord.</p>
+            <p>Such and ſo frequent are the prece<g ref="char:EOLhyphen"/>dents of mortalitie, that we could not thinke ſhe ſhould live ever. If the care of our ſafetie had not this laſt Summer hurried us from the citie of affliction, we might have ſeene neere five thou<g ref="char:EOLhyphen"/>ſand ſuch, a weeke. <hi>Tota vita,</hi>
+               <note place="margin">Seneca.</note> ſayes the Philoſopher, <hi>nihil aliud eſt quam ad mortem iter:</hi> Tis then a kind of impu<g ref="char:EOLhyphen"/>dence, and unjuſtnes of claime, to chal<g ref="char:EOLhyphen"/>lenge that unto our ſelves which is denied to all. and in this univerſall neceſſitie of death to deſire a diſpenſa<g ref="char:EOLhyphen"/>tion for us, and ours; as if, when wee knew a univerſall floud of deſtruction ſhould over-ſtreame the whole world, we ſhould hope our houſes might bee exempted. Let the thought of this be
+<pb n="28" facs="tcp:8567:18"/>our comfort, ſhe hath but pledg'd that cup, which all our anceſtors began un<g ref="char:EOLhyphen"/>to her, and at laſt we that are here pre<g ref="char:EOLhyphen"/>ſent muſt taſte of the ſame.
+<note place="margin">Chryſ. in Mat. hom. 35.</note> 
+               <hi>Etſi ſenex aliquis, etſi adoleſcens ſit, morti tamen in qualibet aetate vicinus.</hi> All muſt die, God ſet this period to her daies, elſe ſhe had liv'd; and why ſhould wee bee againſt the ordinance of the moſt higheſt?
+<note place="margin">Ecclus. 41.4.</note> Since ſhe is irrevocably gone, why ſhould you ſo violently deſire her? But ſuch is the nature of us, that we love nothing ſo much as that which is remov'd from us, never to be had againe; nay, wee leſſe eſteeme thoſe that ſurvive, through the inor<g ref="char:EOLhyphen"/>dinate deſire of them that are dead. It would mitigate, if we would but con<g ref="char:EOLhyphen"/>ſider Gods mercy in his puniſhments, his <hi>Manna</hi> in the deſert of our affli<g ref="char:EOLhyphen"/>ction.
+<note place="margin">Bern. de tranſ. Mal.</note> 
+               <hi>Pium eſt defunctum plangere, ma<g ref="char:EOLhyphen"/>gis pium congaudere viventi.</hi> Have you not many ſurviving comforts for one ſingle loſſe, friends of as great emi<g ref="char:EOLhyphen"/>nencie and place, as much grac'd and favour'd by their King, lov'd by their country, as ever ſubjects were? Have
+<pb n="29" facs="tcp:8567:18"/>you not a large <hi>ſeries,</hi> and catalogue of the Nobilitie your kindred? and two daughters yet alive? <hi>Pereat contriſta<g ref="char:EOLhyphen"/>tio, ubi est tanta conſolatio:</hi>
+               <note place="margin">Aug. de verb. Dom. ſerm. 35.</note> forget your ſadneſſe in the midſt of ſuch joyes.</p>
+            <p>But will yet yet grieve? cannot theſe conſolations dry up the fountaine of your teares? ſuppoſe her to bee onely abſent, that will helpe: for we do not grieve for thoſe which are abſent, and muſt continue, if we know they live; with that opinion you may couzen your griefe, and be fafe. But, make the worſt of it, ſhee is but ſent before, you muſt follow.
+<note place="margin">Aug de verb. Dom. ſerm. 34.</note> 
+               <hi>Scias eam non in aeternum relinquere te manſurum, ſedpraecedere ſecuturum.</hi>
+            </p>
+            <p>But you will ſay, ſhe was my onely joy, my only delight. This argues you lov'd your ſelfe, not your childe. If for her ſake you wiſh her life, then wiſh her there, where her life ſhall be longeſt and happieſt. If God ſhould take our children in the midſt of their ſinnes, then it might juſtly moove us; teares would then become our cheeks, whereas now they are inexcuſable. The
+<pb n="30" facs="tcp:8567:19"/>tearing of our haire, the rending of our garments, the beating of our hearts, the lamentations &amp; outcryes of our voices cannot awake her: ſleep ſhe wil, til the Trump at the laſt day,
+<note place="margin">Aug de verb Dom. ſerm. 44.</note> or Chriſt call her <hi>Mortua eſt, quantumlibet pulſes, quantu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>libet vellices, quantumlibet lanies, non ex<g ref="char:EOLhyphen"/>pergiſcetur; Chriſto dormit, cum dicet ſur<g ref="char:EOLhyphen"/>ge, ſurget.</hi> Impatience is a crime, when Gods hand occaſions the accident. Vn<g ref="char:EOLhyphen"/>dutifull murmuring may incenſe him, and for our ſins perhaps he wil take a<g ref="char:EOLhyphen"/>way the reſt of our children, who for his owne pleaſure, and their good re<g ref="char:EOLhyphen"/>mov'd the firſt. When God is angry, and ſmites thee on the right cheeke, with patience ſubmit thy ſelfe to his pleaſure, and turne to him the other alſo. If ſervants (by S. <hi>Pauls</hi> injuncti<g ref="char:EOLhyphen"/>on) may not expoſtulate with their Maſters, ſhall the clay aske the Potter why hee did thus? Take heed of la<g ref="char:EOLhyphen"/>mentations, and waywardneſſe, leſt, as mothers doe their children, God whip you ſo much the more for it. <hi>Ieſus</hi> the ſonne of <hi>Syrach</hi> pronounceth a woe a<g ref="char:EOLhyphen"/>gainſt them, that have loſt their pati<g ref="char:EOLhyphen"/>ence,
+<pb n="31" facs="tcp:8567:19"/>and by way of interrogation tels them in what a miſerable plight they are:
+<note place="margin">Ecclus. 2.15.</note> 
+               <hi>What will yee do when the Lord ſhal viſite you?</hi> And Ieſus the ſonne of God pronounceth, I may ſay gives a bleſ<g ref="char:EOLhyphen"/>ſing to the patient, an inheritance of joy and comfort:
+<note place="margin">Luk. 21.19.</note> 
+               <hi>By your patience poſ<g ref="char:EOLhyphen"/>ſeſſe your ſoules.</hi> Will you have an ex<g ref="char:EOLhyphen"/>ample to move you? He was led as a lamb to the ſlaughter, and as a ſheepe before the ſheerer is hee dumb, ſo ope<g ref="char:EOLhyphen"/>ned he not his mouth. Nay, Ile come home to you, and inſtance in the ſame kindes. When <hi>Anaxagoras</hi> heard of the death of his owne ſonne, without fainting, or vaine exclamations againſt the Deſtinies for their cruelty, he ſaid, <hi>Scio me mortalem genuiſſe,</hi> I know the iſſue of my bodie could not bee im<g ref="char:EOLhyphen"/>mortall. <hi>Livia</hi> loſt her ſonne <hi>Druſus,</hi> a yongue Prince of admirable worth; no mother could exceed her lamentati<g ref="char:EOLhyphen"/>ons for the death of a childe,
+<note place="margin">Nec plus do<g ref="char:EOLhyphen"/>luit quam aue honeſtu<g ref="char:cmbAbbrStroke">̄</g> erat, aut Caeſare, aut aequo ma<g ref="char:EOLhyphen"/>ius. Sen. ad Mar.</note> yet in the ſame grave with him ſhe intombd her ſorrowes, neither afterward was ſhee more troubled, than became a Caeſarean and diſcretion: and without teares af<g ref="char:EOLhyphen"/>terwards
+<pb n="32" facs="tcp:8567:20"/>ſhe could repeate his vertues, his excellencies, and thoſe did beſt pleaſe her that did moſt remember him. As no man went beyond <hi>Sylla</hi> in cruelty, ſo not in the love of a ſon; yet the ſad ſtory of his fatall end was almoſt as ſoone forgotten, as related. But what neede I goe for a precedent beyond my Text. <hi>Now the childe is dead, why ſhould I faſt?</hi> ſaies as tender, as loving a father, as the Scripture can ſhew us. But ſome there are more ſtoically obſtinate, than wiſely coura<g ref="char:EOLhyphen"/>gious,
+<note place="margin">Aug. de verb. Dom. ſerm. 35.</note> which barre a diſcreet man from the leaſt impreſſion of griefe <hi>Po<g ref="char:EOLhyphen"/>teſt non dolere cor humanum defuncto chariſſimo, melius tamen dolet, &amp; ſana<g ref="char:EOLhyphen"/>tur cor humanum, quùm non dolendo ſit inhumanum.</hi> I will eaſily beleeve, that ſuch men were never owners of a jewell of this prize, or if they were, ſo they are ſtill; otherwiſe the loſſe would have humbled their hauty con<g ref="char:EOLhyphen"/>fidence, and have forc'd a confeſſion of what they deny. Reaſon hath done her part, if ſhe hath cut off and defal<g ref="char:EOLhyphen"/>cated the luxuriancy, and over-plus of
+<pb n="33" facs="tcp:8567:20"/>griefe; in great detriments 'tis ſtupidi<g ref="char:EOLhyphen"/>tie and dulneſſe, not to lament at all; as the exceſſe is madneſſe, the meane is ſafeſt, and will gaine you the opinion of a diſcreet, and well-tempered mour<g ref="char:EOLhyphen"/>ner. <hi>Permittantur ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pia corda cha<g ref="char:EOLhyphen"/>rorum de mortibus ſuorum contriſtari dolore ſanabili et conſolabiles lachrymas fundant conditione mortali,
+<note place="margin">Aug. de verb. Dom. ſerm. 34.</note> quas citòre<g ref="char:EOLhyphen"/>primat fidei gaudium, quâ credunt fide<g ref="char:EOLhyphen"/>les quando moriuntur paululùm à nobis abire, &amp; ad meliora tranſire.</hi> I will al<g ref="char:EOLhyphen"/>low that the floud-gates of your eyes may be open, but not too wide, nor too long; and I will give you leave to ſigh from the bottome of your hearts, but not too often, nor too much. No man ſhall perſwade mee but they are Gods children which ſilently ſuf<g ref="char:EOLhyphen"/>fer, and with patience endure his cor<g ref="char:EOLhyphen"/>rection, humbly, and contentedly ſub<g ref="char:EOLhyphen"/>mitting themſelves to the wiſedome of his proceedings. Eſpecially in this caſe, when that, which we take to be a puniſhment, is a bleſſing; for they that dye in the Lord (as Saint <hi>Bernard</hi> ſaies) <hi>ab omni peccato, &amp; labore, &amp; periculo li<g ref="char:EOLhyphen"/>berantur,</hi>
+               <pb n="34" facs="tcp:8567:21" rendition="simple:additions"/>are freed from all ſinne,
+<note place="margin">Bern. de tranſ. Mal.</note> la<g ref="char:EOLhyphen"/>bour, and danger of either; but theſe, that ſurvive, are not, and at laſt muſt dye. And ſo I come to <hi>Davids</hi> medi<g ref="char:EOLhyphen"/>tation on his owne mortality,
+<q>I ſhall goe to him.</q>
+            </p>
+            <p>Turne over the whole booke of na<g ref="char:EOLhyphen"/>ture,
+<note place="margin">Pars quarta.</note> and you ſhall read mortality in e<g ref="char:EOLhyphen"/>very page, every character is written in duſt, and the hand of Time wipes it out, &amp; ſooner in this later &amp; decrepit age of the world, than heretofore. We cannot now ſay with <hi>Iacob,</hi> The daies of the yeares of our Pilgrimage are 130 yeares;
+<note place="margin">Gen. 47.9.</note> but we may conclude with him, Few and evill are the yeares of our life; we have not attained unto the dayes of the yeares of the life of our Fathers in the dayes of their Pilgri<g ref="char:EOLhyphen"/>mage. When firſt wee begin to live, we begin to dye.
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or.</note> 
+               <hi>Naſcentes morimur,</hi> or (to uſe Saint <hi>Ambroſe</hi> his words, which excellently expreſſe our condi<g ref="char:EOLhyphen"/>tion) <hi>Vitae hujus principium, mortis exordium,
+<note place="margin">Amb. l. 8. de voc. Gent.</note> nec augeri<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>jus, quam minui
+<pb n="35" facs="tcp:8567:21"/>incipimus.</hi> If death make a thruſt at us, we have no defence; if ſhe aſſault us, we cannot finde a place of ſecurity to protect us.
+<q>Ille licet ferro ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus ſe condat, &amp; are: Mors tamen incluſum protrahet inde caput.</q> Whither can we go from the preſence of death? take wee the wings of the morning, and flye whither wee will, whereſoever we ſettle our ſelves under heaven, ſhe will be ſure to finde us out. And as ſhe is unavoideable, ſo is ſhee unpartiall: 'tis not greatneſſe, nor height of place that can priviledge a<g ref="char:EOLhyphen"/>ny man from her attempts. The Scrip<g ref="char:EOLhyphen"/>ture cals Kings gods of the earth, but, leaſt they ſhould flatter themſelves with the hope of immortality, it im<g ref="char:EOLhyphen"/>mediately followes, They ſhall dye like men. Could any get a Patent for eternity, theſe are they; but a late ex<g ref="char:EOLhyphen"/>ample freſh ſtill in our memories, tells us they have it not. Where are the great Commanders of the world? where are the Rulers over thouſands, and 10000, the Princes &amp; Potentates of the earth?
+<pb n="36" facs="tcp:8567:22"/>are they not dead? Goe ſearch the grave, and you ſhall bee no more able to diſtinguiſh betwixt their duſt, and the meaneſt beggers, than <hi>Diogenes</hi> was to finde <hi>Phillip</hi> the King of Ma<g ref="char:EOLhyphen"/>cedons bones. <hi>Intervallis diſtinguimur, exituaequamur.</hi> Life makes a difference betwixt us, death none, neyther in the meanes of diſſolution, nor the ruines after; ſhee can make a weapon of the leaſt of the unlikelieſt of things to de<g ref="char:EOLhyphen"/>ſtroy them, a needle, a fiſh-bone, a ray<g ref="char:EOLhyphen"/>ſin-ſtone is ſufficient; nay, two great Princes, one of India, the other of Rome, were ſlaine by a hayre. A great Duke of Brittanny was preſt to death in a throng. <hi>Aemilus Lepidus,</hi> and <hi>Au<g ref="char:EOLhyphen"/>fidius,</hi> great Romanes, died with a ſtum<g ref="char:EOLhyphen"/>ble, the one at his owne threſhell, the o<g ref="char:EOLhyphen"/>ther at the ſenate houſe. <hi>Etia<g ref="char:cmbAbbrStroke">̄</g> cibus &amp; po<g ref="char:EOLhyphen"/>tus, &amp; ſine quibus vivere non poſſumus, mortifera ſunt,</hi>
+               <note place="margin">Mors aequo pede, &amp;c. Hor.</note> &amp; no leſſe to them than us. She doth as wel beſiege the palace of the King, as the cottage of the Beggar: as they have the ſame ſun, the ſame cly<g ref="char:EOLhyphen"/>mate, the ſame ſeaſons with us, ſo have they the ſame infirmities, the ſame a<g ref="char:EOLhyphen"/>ges,
+<pb n="37" facs="tcp:8567:22"/>and not unequall deaths: If there be odds, the advantage many times lyes on our ſides. If travell, or gold, or watchings, or the induſtry of the beſt of Phyſitians, could have given life, this curious peece of mortality had not been yet defac'd. Let this viſible argument (a ſtronger I cannot uſe) re<g ref="char:EOLhyphen"/>ctifie the truth of your frailty. If you deſire a confirmation from Gods Word, I can give it. All fleſh is graſſe,
+<note place="margin">Eſa. 40.6.</note> and the glory thereof as the flower of the field. Here is ſet downe the condi<g ref="char:EOLhyphen"/>tion as well of the nobleſt, as the com<g ref="char:EOLhyphen"/>mon ſort, their glory fades as a flower, the other dyes like graſſe, all meet in the duſt.</p>
+            <p>The cauſes of the neceſsitie of death, which are laid upon all men, are three: firſt, the decree of God,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Statutum est omnibus ſemel mori,</hi> which, as the law of the Medes &amp; Perſians, is unchangeable.</p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> the compoſition of our fleſh, which is of contrarie qualities: their ſtruglings and combuſtions ne<g ref="char:EOLhyphen"/>ceſsitate diſeaſes, they death.</p>
+            <p>Thirdly, the ſin of our ſoules,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> which
+<pb n="38" facs="tcp:8567:23"/>is the true,
+<note place="margin">Non mors ho<g ref="char:EOLhyphen"/>mini accide<g ref="char:EOLhyphen"/>ret niſi ex pae<g ref="char:EOLhyphen"/>na, quam prae<g ref="char:EOLhyphen"/>ceſſerat culpa. Aug de verb. Dom. ſerm. 34. Steriles domi<g ref="char:EOLhyphen"/>nantur avenae. Virg.</note> reall, and radicall cauſe.</p>
+            <p>God in our creation ſow'd in our bodies, the good corne, the wholſome graine of health and ſoundneſſe; ſinne and diſobedience came with an after<g ref="char:EOLhyphen"/>caſt, and ſprinkled tares of ſickeneſſe a<g ref="char:EOLhyphen"/>mongſt the corne, and they grow up together with it, and in ſome grounds they proſper ſo well, that the weede o<g ref="char:EOLhyphen"/>vergrowes the corne, and the dayes of ſickeneſſe are more than the dayes of health, and the end of them is death. Gods ſentence cannot bee recall'd; a leaſe for our lives wee may have for a certaine time, but not an abſolute par<g ref="char:EOLhyphen"/>don. The difference of the elements within us, cannot be compos'd; a truce they make with each other, not a peace. And ſinne will not looſe the poſſeſsion of our ſoules; we may curb her power, but not take it away; wee may ſinne leſſe, but not not at all: for the beſt man ſinnes ſeven times a day;
+<note place="margin">Rom. 6.23.</note> and the wa<g ref="char:EOLhyphen"/>ges of ſinne is death: how ſoone wee ſhall receive them, wee are uncertaine. We know not how ſuddeuly wee are to travell into another countrey, let us
+<pb n="39" facs="tcp:8567:23" rendition="simple:additions"/>therefore bee ever readily furniſht for our journey; let neither youth, delight, nor honour ſo rake up our thoughts, that wee forget the maine buſineſſe of our life, to dye well. We cannot pleade minoritie, if we are now unprepar'd: wee were of full age long ſince to ſue out the liverie of death; and, if we live untill we are decrepit, our ſoule is like our bodies, if we thinke not every mi<g ref="char:EOLhyphen"/>nute may bee our laſt. The Poet will give no man above a day,
+<note place="margin">Horace. Iob 7.6.</note>
+               <q>Omnem crede diem tibi diluxiſſe ſupremu<g ref="char:cmbAbbrStroke">̄</g>.</q> 
+               <hi>Iob</hi> little, or no time at all. Mans dayes are ſwifter than a weavers ſhuttle:
+<note place="margin">Iob 14.2.</note> He commeth forth like a flower, and is cut downe, hee flyeth alſo like a ſha<g ref="char:EOLhyphen"/>dow, and continueth not. Let us then ſo live in theſe houſes of clay, as if we were tenants at will, and might bee thruſt out of poſſeſſion every moment; not as if we could not bee remooved, untill the expiration of ninety nine yeares, or had a leaſe of three lives in them. The edifice of our mortall ſelves is not erected upon a rocke, a founda<g ref="char:EOLhyphen"/>tion of ſtone, but on ſand, ſo as when the ſea and tide beate, and the winde
+<pb n="40" facs="tcp:8567:24"/>rageth, it is in danger continually of an utter overthrow.
+<note place="margin">Horace.</note>
+               <q>Quid brevi fortes jaculamur aevo <hi>Multa?</hi>
+               </q> Why then in this uncertainty, doe wee make a preparation, as if wee ſhould live unto the third &amp; fourth generati<g ref="char:EOLhyphen"/>on? He is wiſe that can diſlodge at an inſtant, and when death knockes at his doore, can unaffrightedly let her in, and hath then ſo diſpacht all his affaires, that hee hath nothing to ſay, but come Lord Ieſus, come quickly; nothing to do, but to deliver backe his ſoule to his Creator. Whereas miſerable is his con<g ref="char:EOLhyphen"/>dition, who is marrying a wife, or gi<g ref="char:EOLhyphen"/>ving in marriage, or banquetting, when the inundation of an unreſiſtable floud is ready to over whelme his unfiniſht arke of himſelfe. Hiſtory tells me of a miſerable complaint, one made againſt Death and Deſtiny, that they ſhould cut him off in the midſt of his work, when 'twas halfe finiſht; worſe is their caſe who are taken away in the midſt of their ſins, nay, if it be in the midſt of their repentance.
+<q>Si maneant opera imperfecta,
+<note place="margin">Virg.</note> minae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+                  <pb n="41" facs="tcp:8567:24"/>Murorum ingentes.</q> If the tabernacle of their hearts be not thorowly finiſht, and ſeaſon'd with re<g ref="char:EOLhyphen"/>pentant teares, if they are not perfect<g ref="char:EOLhyphen"/>ly and wholely reconciled unto their God. May no agency keepe us from negotiating for our ſoules health a<g ref="char:EOLhyphen"/>gainſt the day of death, that with more truth than preſumption, we may ſay with <hi>David,</hi> we ſhall goe to her, to that Heaven where ſhee is, to thoſe Saints and bleſſed ſoules, that are her companions, to the Spirit of truth, the Sonne of mercy, the God of glory, who crown'd her with immortality, and infinity of happineſſe, to raigne with them for evermore.</p>
+            <p>Thus have you heard of the ſickneſs of <hi>Davids</hi> Childe,
+<note place="margin">Application.</note> his behaviour be<g ref="char:EOLhyphen"/>fore the death of him, his reſolution af<g ref="char:EOLhyphen"/>ter it, and his meditation upon it. Of which I muſt ſay,
+<note place="margin">Rom. 4.23.</note> as the Apoſtle doth of <hi>Abrahams</hi> Iuſtification: Now it is not written for him only, but for us.</p>
+            <p>As <hi>Davids</hi> Childe was ſicke, ſo was this yongue Lady, ſicke of a long and lingering ſickneſſe, but patient and qui<g ref="char:EOLhyphen"/>et in her ſickneſſe, as if ſhee had not
+<pb n="42" facs="tcp:8567:25" rendition="simple:additions"/>been borne to dye, but ſuffer: and even at her laſt gaſpe, ſhe carryed ſuch cheerfulneſſe in her countenance, as if ſhe had been ſenſible of the neere<g ref="char:EOLhyphen"/>neſſe of her glory. Death did not ap<g ref="char:EOLhyphen"/>pale her, but the freſh vermillion of her cheekes (had ſhee been of riper yeares) might have ſeem'd to wit<g ref="char:EOLhyphen"/>neſſe a joy for leaving the world ſo ſoone. She was of no robuſtious con<g ref="char:EOLhyphen"/>ſtitution, but of a fabrick and making ſo delicate, that as in your neateſt watches, the Artificer breaks a wheel or two, before he can work one out: ſo nature was ſo curious in the work<g ref="char:EOLhyphen"/>manſhip of this Lady, that ſhee was apt upon the leaſt occaſion to bee out of frame. She liv'd to ſpend her fleſh, as if ſhe had thought it too good for the worms. When there was nothing almoſt left but bones and skin about her, ſhee deſir'd to bee in her nurſes armes, as if ſhe had knowne that nee<g ref="char:EOLhyphen"/>rer heaven than her bed; and then to be in the cradle, ſeeming to intimate it beſt reſembled her grave; where preſently into the hands of her Savi<g ref="char:EOLhyphen"/>our ſhe deliver'd a ſpotleſſe ſoule. that
+<pb n="43" facs="tcp:8567:25"/>ſhe was dead, they found, but when, they knew not. Her breath, unobſer<g ref="char:EOLhyphen"/>ved, ſtole away, like <hi>Noah's</hi> Dove out of the Arke; it went forth and came in, it went forth and never returned againe.</p>
+            <p>Now as <hi>Davids</hi> Childe was dead,
+<note place="margin">Optima prim fere manibus rapiuntur ava<g ref="char:EOLhyphen"/>ris, Implentur nu<g ref="char:EOLhyphen"/>meris deterior ſuis. Ovid. Hor.</note> ſo is this ſweet Lady, and, like the mi<g ref="char:EOLhyphen"/>nute ſhe died in, never to be recal'd a<g ref="char:EOLhyphen"/>gaine; ſo have I ſeene the ſweeteſt flowers cropt in the bud.
+<q>
+                  <l>Impube corpus quale poſsit impia</l>
+                  <l>Mollire Thracum pectora.</l>
+               </q> Such was her delicacy, that the loſſe of her would even force a teare from a Barbarians eie. God thought this jewell of too great a price for mans uſe; he ſhew'd it to teſtifie his richnes, and preſently tooke it againe for our unworthineſſe. She was the fineſt thread, that ever was ſpun to make up fraile nature; which time and age would but have ſullied and made worſe: I never ſaw fleſh and bloud of a purer complexion. Her ſoule was not blotted nor ſcribled with blacke and fowle thoughts, her hands were not polluted with any action of evill,
+<pb n="44" facs="tcp:8567:26"/>ſhee was never out yet, but like a good Muſitian, tuning her pipes, and organs, againſt ſhee came to bear her part; her tongue ſhe had put almoſt three yeares to ſchoole to learne to ſpeake: and, if I looke into her conditions, I can ſee, through leſſe then three yeares, a moſt ingenuous, and ſweete diſpoſition to<g ref="char:EOLhyphen"/>wards: ſo good, as if ſhe were too good to live to ſin, and ſo God tooke her; ſhe had but that one ſinne, we are made of, Originall; towards the expiation of which when ſhee came firſt into the world, ſhee baptized her ſelfe with her owne teares, and that little remnant of daies ſhee liu'd, ſhee did perpetuall pe<g ref="char:EOLhyphen"/>nance, and now hath undergone the laſt, Death.</p>
+            <p>Now mee thinkes wee ſhould ſtand all like <hi>Belſhazzar</hi> when hee ſaw the hand-writing upon the wal;
+<note place="margin">Dan. 5.5.</note> our coun<g ref="char:EOLhyphen"/>tenances ſhould be changed, our thoughts troubled, ſo that the joints of our loines ſhould be looſe, &amp; our knees ſmite againſt one another to think up<g ref="char:EOLhyphen"/>on this harmeleſſe innocent, that here hath ſuffered for one ſinne, and that ſin none of her owne; to thinke now that
+<pb n="45" facs="tcp:8567:26"/>tis we that are dead, and yet ſhee is to be buried. The multiplication of our yeares, hath been but an increaſe of the reckoning, wee muſt make for ſinne, and runs us further ſtil upon the ſcore. Wee have put off our innocencie long ſince with our infancie, the elder wee grow the worſe we are, as our firſt pa<g ref="char:EOLhyphen"/>rents were in their clothes of figge-leaves. It may grieve us to ſee the happy eſtate we have outliv'd, and put us in minde of the fitneſſe of a repara<g ref="char:EOLhyphen"/>tion. We may live untill we are old, and old men are twice children, but this laſt is a childiſhneſſe of impoten<g ref="char:EOLhyphen"/>cie, not of innocencie; of ſuch was this Ladie, M<hi rend="sup">rs</hi>; of whom I cannot ſpeake the full truth, but that I make an argu<g ref="char:EOLhyphen"/>ment againſt mine owne purpoſe, which is to ſettle <hi>Davids</hi> reſolution in you to beare this loſſe with patience.</p>
+            <p>As <hi>David</hi> then reſolv'd when his child was dead, to faſt no more, ſo let us to weep no more; let his reaſon be ours, tis a good one, We cannot bring her back againe. Me thinks the thought of this ſhould allay the impetuouſneſs of our ſorrow, that it doth not profit her,
+<pb n="46" facs="tcp:8567:27"/>whoſe life we deſire, but hurts ours. If griefe could doe her good, every night I would waſh my bed with weeping, and wiſh my head a fountaine of wa<g ref="char:EOLhyphen"/>ter; nay, had I but one teare to ſpend after thoſe for my ſinnes, ſhee ſhould have it. But <hi>Seneca,</hi> a meere Heathen, hath taught mee to hate unprofitable griefe; <hi>Quae amentia eſt poenas à ſe in<g ref="char:EOLhyphen"/>foelicitatis ſuae exigere &amp; mala ſua au<g ref="char:EOLhyphen"/>gere?</hi> what madneſſe is it to revenge my croſſes on my ſelfe, &amp; wilfully to aug<g ref="char:EOLhyphen"/>ment my griefe? Is not my ſorrow weightie enough, but with a freſh ſup<g ref="char:EOLhyphen"/>ply of teares I muſt encreaſe the bur<g ref="char:EOLhyphen"/>then of it? But why ſo violent now? you could not but perceive long ſince that thus it would be. Could you ima<g ref="char:EOLhyphen"/>gine that ſuch perfection could be of continuance? Things ſublimated of a ſuperuſuall goodneſſe, take a ſuddaine flight from us. The brightneſſe of the fire argues a vicinitie to extinction; it is of longer durance, when it feeds on dull &amp; groſſe matter, as it is leſſe quick and agile; ſo children the more for<g ref="char:EOLhyphen"/>ward &amp; ſpritely they are, the leſſe hope they give me of a long life. But that
+<pb n="47" facs="tcp:8567:27"/>which wee grieve for in this Lady, is her bleſſing: we toyle &amp; are full of ſor<g ref="char:EOLhyphen"/>rowes, and muſt dye; but ſhee doth reſt from all labour, without which with the Saducees you will denie a reſurre<g ref="char:EOLhyphen"/>ction. <hi>Ceſſet igitur dolor compaſsionis, ubi oritur fides reſurrectionis.</hi> I would not have you ignorant brethren con<g ref="char:EOLhyphen"/>cerning them which are aſleep, that ye ſorrow not, even as others which have no hope; for if we beleeved that Chriſt Ieſus died, and roſe againe,
+<note place="margin">Theſ. 4.13.14.</note> even ſo all thoſe which ſleepe in Chriſt, will the Lord bring with him. Could this yong Lady ſpeak, ſhe would bid us not weep for her, but for our ſelves: for ſhee is not dead, but,
+<note place="margin">Matt. 9.24.</note> like the maid in the Ru<g ref="char:EOLhyphen"/>lers houſe, ſhe ſleepeth. Therefore com<g ref="char:EOLhyphen"/>fort your hearts, drive ſorrow far from them: for ſorrow hath ſlaine many, &amp; there is no profit therin,
+<note place="margin">Ecclus. 30.33.</note> ſaith Ieſus the ſon of Sirach. Let us not for the grea<g ref="char:EOLhyphen"/>teſt loſſe grieve too much, leſt we make our friends grieve for the loſſe of us: for through immoderate ſorrow death can finde an eaſie paſſage to deſtroy us. And now to end with my Text, let us with <hi>David</hi> from hence take up a me<g ref="char:EOLhyphen"/>ditation
+<pb n="48" facs="tcp:8567:28"/>of our own mortalitie, let us think on death, but not occaſion it. let us aſſure our ſelves that wee ſhall go to her: but let us not through immoderate griefe ſend our ſelves before God calls us, leſt we diſpoſſeſſe our ſelves of the place where ſhe is. Let every occaſion be a memorandum of our mortality. I like the cuſtome of the Egyptians, who at their feſtivals and times of mirth, had ever at the laſt courſe a deaths-head ſeru'd in, which was a ſilent inſinuati<g ref="char:EOLhyphen"/>on of the frailty of their nature. A fre<g ref="char:EOLhyphen"/>quent iteration of this would make us underſta<g ref="char:cmbAbbrStroke">̄</g>d ourſelves better than we do. O may the God of light unſeal our eies, &amp; make us ſee and know how ſubject we are to die<g ref="char:punc">▪</g> good God imprint in our memories the thought of death, beſtow on our harts a preparatio<g ref="char:cmbAbbrStroke">̄</g> to welcom it, grant that with <hi>Iob</hi> we may wait al the daies of our appointed time, untill the Son of righteouſneſs appear, &amp; then be exalted into an everlaſting manſion in heaven, there to raign with him for e<g ref="char:EOLhyphen"/>vermore. To whom with the Father &amp; the holy Ghoſt, be aſcribed all power, &amp;c. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:8567:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
